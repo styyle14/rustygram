@@ -1,0 +1,6 @@
+[package]
+name = "rustygram"
+version = "0.1.0"
+authors = ["styyle14 <styyle14@gmail.com>"]
+
+[dependencies]
